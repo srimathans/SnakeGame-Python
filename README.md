@@ -1,1 +1,1 @@
-# This snake_game was developed using python language
+# This snake game was developed using python language
